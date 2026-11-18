@@ -1,0 +1,734 @@
+{
+  "generated_at": "2026-11-17T16:11:55-08:00",
+  "timezone": "America/Los_Angeles",
+  "totals": {
+    "fans": 324,
+    "buyers": 28,
+    "total_revenue_estimate": 3125.0,
+    "sales_today_count": 3,
+    "sales_today_revenue": 10.0
+  },
+  "today_goal": {
+    "target": 6,
+    "done": 3,
+    "remaining": 3,
+    "revenue": 10.0
+  },
+  "high_spenders": [
+    {
+      "name": "Anthony",
+      "username": "@Ton_Star56",
+      "category": "paid",
+      "amount_spent": 480.0,
+      "last_activity": "2026-11-17T12:50:11-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Antone",
+      "username": "@T0n31026",
+      "category": "paid",
+      "amount_spent": 365.0,
+      "last_activity": "2026-11-17T08:47:22-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Jackson",
+      "username": "@Jacksonhill12300",
+      "category": "paid",
+      "amount_spent": 300.0,
+      "last_activity": "2026-11-17T05:22:04-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Al",
+      "username": "@Acas2369",
+      "category": "paid",
+      "amount_spent": 265.0,
+      "last_activity": "2026-11-17T05:36:08-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "J",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 250.0,
+      "last_activity": "2026-11-17T06:23:40-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "D",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 200.0,
+      "last_activity": "2026-11-17T15:44:14-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Collin",
+      "username": "@Collin_6",
+      "category": "paid",
+      "amount_spent": 175.0,
+      "last_activity": "2026-11-17T05:20:39-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Ford",
+      "username": "@phoured",
+      "category": "awaiting_content",
+      "amount_spent": 140.0,
+      "last_activity": "2026-11-17T15:39:40-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Rob",
+      "username": "@Robgun24",
+      "category": "paid",
+      "amount_spent": 110.0,
+      "last_activity": "2026-11-17T16:09:56-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Brined",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 90.0,
+      "last_activity": "2026-11-17T05:20:27-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Dalton",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 75.0,
+      "last_activity": "2026-11-17T05:12:13-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Pat",
+      "username": "@MisterPat1",
+      "category": "paid",
+      "amount_spent": 75.0,
+      "last_activity": "2026-11-17T05:17:31-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Enzo",
+      "username": "@enzoplays22",
+      "category": "paid",
+      "amount_spent": 75.0,
+      "last_activity": "2026-11-17T12:55:04-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Panda",
+      "username": "@PandaDCCLC",
+      "category": "paid",
+      "amount_spent": 60.0,
+      "last_activity": "2026-11-17T06:11:11-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "King",
+      "username": "@kingofsport",
+      "category": "paid",
+      "amount_spent": 60.0,
+      "last_activity": "2026-11-17T05:22:50-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Brady",
+      "username": "@relaxedginger",
+      "category": "paid",
+      "amount_spent": 60.0,
+      "last_activity": "2026-11-17T15:27:19-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "James",
+      "username": "@James161097",
+      "category": "paid",
+      "amount_spent": 50.0,
+      "last_activity": "2026-11-17T05:14:19-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Jason",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 50.0,
+      "last_activity": "2026-08-17T15:11:36-07:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Airhead",
+      "username": "@Airhead101",
+      "category": "paid",
+      "amount_spent": 50.0,
+      "last_activity": "2026-11-17T05:19:37-08:00",
+      "note": "high spender"
+    },
+    {
+      "name": "Erick",
+      "username": "@BabyRhino",
+      "category": "paid",
+      "amount_spent": 45.0,
+      "last_activity": "2026-11-17T05:13:20-08:00",
+      "note": "high spender"
+    }
+  ],
+  "waiting_on_content": [
+    {
+      "name": "Eric",
+      "username": "@exofficio83",
+      "category": "awaiting_content",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T16:08:31-08:00",
+      "note": "paid — waiting on dropbox / verify"
+    },
+    {
+      "name": "Ford",
+      "username": "@phoured",
+      "category": "awaiting_content",
+      "amount_spent": 140.0,
+      "last_activity": "2026-11-17T15:39:40-08:00",
+      "note": "marked awaiting content"
+    },
+    {
+      "name": "Will",
+      "username": "@willw20",
+      "category": "awaiting_content",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:33:14-08:00",
+      "note": "paid — waiting on dropbox / verify"
+    },
+    {
+      "name": "Sam",
+      "username": "@Sl362314",
+      "category": "awaiting_content",
+      "amount_spent": 40.0,
+      "last_activity": "2026-11-17T15:13:57-08:00",
+      "note": "refund/dispute"
+    },
+    {
+      "name": "Blaze",
+      "username": null,
+      "category": "awaiting_content",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:01:13-08:00",
+      "note": "marked awaiting content"
+    }
+  ],
+  "paid_today": [
+    {
+      "name": "Eric",
+      "username": "@exofficio83",
+      "category": "awaiting_content",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T16:08:31-08:00",
+      "note": "says paid — verify"
+    },
+    {
+      "name": "Brandon",
+      "username": null,
+      "category": "inquired_no_response",
+      "amount_spent": 10.0,
+      "last_activity": "2026-11-17T15:59:54-08:00",
+      "note": "delivered 10 dropbox"
+    },
+    {
+      "name": "Will",
+      "username": "@willw20",
+      "category": "awaiting_content",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:33:14-08:00",
+      "note": "says paid — verify"
+    }
+  ],
+  "hot_leads": [
+    {
+      "name": "David",
+      "username": "@dtucker69",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:41:58-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Joseph",
+      "username": "@jeowin",
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:32:05-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Ryan",
+      "username": "@jhfp_101",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:25:00-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "B",
+      "username": "@N_B033",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:07:55-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Cw",
+      "username": "@Ccjjw1",
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:34:31-08:00",
+      "note": "asked about pricing/menu"
+    },
+    {
+      "name": "…… 🤐",
+      "username": "@ronsaas",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:25:16-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Jose",
+      "username": "@Metal_Nightmare666",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:19:33-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "infowolfe",
+      "username": "@infowolfe",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:17:40-08:00",
+      "note": "asked about pricing/menu"
+    },
+    {
+      "name": "Mr",
+      "username": "@Mr_G_233",
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:17:33-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "unknown",
+      "username": null,
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:11:22-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Brandon",
+      "username": "@brandon1691",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:10:51-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Aaron",
+      "username": "@Aaron8420",
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:09:58-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Dan",
+      "username": "@dmikkytwo",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:09:50-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Jason",
+      "username": "@jdozio",
+      "category": "paid",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:09:39-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Thomas",
+      "username": "@tomulus_anthony",
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:09:31-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Paul",
+      "username": "@PaulStone08",
+      "category": "paid",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T12:55:08-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Daddy",
+      "username": "@DaddyCM69",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T12:55:06-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Jordan",
+      "username": "@Jords589",
+      "category": "new_unknown",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T12:54:58-08:00",
+      "note": "asked about menu/price/payment"
+    },
+    {
+      "name": "Ahmad",
+      "username": null,
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T12:54:15-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "B",
+      "username": "@BGoodToo",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T12:51:53-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "joushzhe",
+      "username": null,
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T11:41:00-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Jackson",
+      "username": "@jackson_rain26",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T11:40:57-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "parker",
+      "username": null,
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T11:40:27-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Fer",
+      "username": null,
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T11:40:23-08:00",
+      "note": "got a price quote"
+    },
+    {
+      "name": "Roger",
+      "username": null,
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T11:40:18-08:00",
+      "note": "got a price quote"
+    }
+  ],
+  "unanswered_dms": [
+    {
+      "name": "Brandon",
+      "username": null,
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T16:10:23-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Sam",
+      "username": "@Sl362314",
+      "category": "awaiting_content",
+      "amount_spent": 40.0,
+      "last_activity": "2026-11-17T16:08:58-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "D",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 200.0,
+      "last_activity": "2026-11-17T15:44:14-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Randy",
+      "username": null,
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:33:35-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Blaze",
+      "username": null,
+      "category": "awaiting_content",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T15:01:13-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "…… 🤐",
+      "username": "@ronsaas",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:25:02-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Leo",
+      "username": "@leos4455",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:22:06-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "infowolfe",
+      "username": "@infowolfe",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T14:17:40-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Daniel",
+      "username": "@am_I_the_best",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T09:55:52-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Dave",
+      "username": null,
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T09:17:31-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Antone",
+      "username": "@T0n31026",
+      "category": "paid",
+      "amount_spent": 365.0,
+      "last_activity": "2026-11-17T08:47:22-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Felipe",
+      "username": null,
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T08:19:57-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Caleb",
+      "username": "@Hotwheelz33",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T07:40:18-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "DD",
+      "username": "@davdavhaha",
+      "category": "inquired_no_response",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T06:33:44-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Trey",
+      "username": "@Lvefunupdwn",
+      "category": "paid",
+      "amount_spent": 10.0,
+      "last_activity": "2026-11-17T06:32:10-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "J",
+      "username": null,
+      "category": "paid",
+      "amount_spent": 250.0,
+      "last_activity": "2026-11-17T06:23:40-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Panda",
+      "username": "@PandaDCCLC",
+      "category": "paid",
+      "amount_spent": 60.0,
+      "last_activity": "2026-11-17T06:11:11-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Al",
+      "username": "@Acas2369",
+      "category": "paid",
+      "amount_spent": 265.0,
+      "last_activity": "2026-11-17T05:36:08-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "Xristos",
+      "username": "@xristos874",
+      "category": "low_interest",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-17T05:19:37-08:00",
+      "note": "last message is inbound — unreplied"
+    },
+    {
+      "name": "🏎️🔌",
+      "username": "@berry33100",
+      "category": "likely_interested",
+      "amount_spent": 0.0,
+      "last_activity": "2026-11-04T14:15:26-08:00",
+      "note": "last message is inbound — unreplied"
+    }
+  ],
+  "facetime_custom_requests": [
+    {
+      "name": "Ford",
+      "username": "@phoured",
+      "category": "awaiting_content",
+      "amount_spent": 140.0,
+      "last_activity": "2026-11-17T15:13:46-08:00",
+      "note": "custom kink request"
+    }
+  ],
+  "recent_alerts": [
+    {
+      "time": "2026-11-17T16:08:31-08:00",
+      "name": "Eric",
+      "username": "@exofficio83",
+      "reason": "says he paid - verify + send bundle"
+    },
+    {
+      "time": "2026-11-17T15:59:54-08:00",
+      "name": "Brandon",
+      "username": null,
+      "reason": "says he paid - verify + send bundle"
+    },
+    {
+      "time": "2026-11-17T15:57:01-08:00",
+      "name": "Brandon",
+      "username": null,
+      "reason": "says he paid - verify + send bundle"
+    },
+    {
+      "time": "2026-11-17T15:54:58-08:00",
+      "name": "Brandon",
+      "username": null,
+      "reason": "says he paid - verify + send 10"
+    },
+    {
+      "time": "2026-11-17T15:40:08-08:00",
+      "name": "Eric",
+      "username": "@exofficio83",
+      "reason": "says he paid - verify + send bundle"
+    },
+    {
+      "time": "2026-11-17T15:33:14-08:00",
+      "name": "Will",
+      "username": "@willw20",
+      "reason": "says he paid - verify + send bundle"
+    },
+    {
+      "time": "2026-11-17T15:32:05-08:00",
+      "name": "Joseph",
+      "username": "@jeowin",
+      "reason": "wants [redacted] / crypto wallet he refuses to use mine"
+    },
+    {
+      "time": "2026-11-17T15:13:57-08:00",
+      "name": "Sam",
+      "username": "@Sl362314",
+      "reason": "refund/dispute"
+    },
+    {
+      "time": "2026-11-17T15:13:46-08:00",
+      "name": "Ford",
+      "username": "@phoured",
+      "reason": "custom kink request"
+    },
+    {
+      "time": "2026-11-17T15:10:18-08:00",
+      "name": "Ford",
+      "username": "@phoured",
+      "reason": "custom kink request"
+    },
+    {
+      "time": "2026-11-17T15:10:14-08:00",
+      "name": "Will",
+      "username": "@willw20",
+      "reason": "wants [redacted]"
+    },
+    {
+      "time": "2026-11-17T14:54:27-08:00",
+      "name": "Ford",
+      "username": "@phoured",
+      "reason": "custom kink request - wants a very explicit custom with specific instructions"
+    },
+    {
+      "time": "2026-11-17T14:16:03-08:00",
+      "name": "Lil",
+      "username": "@fish_boi46299",
+      "reason": "wants IRL meetup"
+    },
+    {
+      "time": "2026-11-17T12:56:34-08:00",
+      "name": "Ahmad",
+      "username": null,
+      "reason": "wants [redacted]"
+    }
+  ],
+  "auto_reply_activity_today": {
+    "in": 96,
+    "out": 75,
+    "alerts": 14,
+    "delivered": 1,
+    "auto_added_wants_content": 3,
+    "paused_evie_took_over": 29,
+    "backlog": 22,
+    "start": 20,
+    "total_events": 260
+  },
+  "meta": {
+    "scan": {
+      "attempted": false,
+      "ok": false,
+      "seconds": null,
+      "new_messages": null,
+      "error": "skipped"
+    },
+    "last_db_scan": {
+      "finished_at": "2026-11-17T16:11:29-08:00",
+      "chats": 504,
+      "new_messages": 642,
+      "seconds": 65.56665587425232,
+      "full": false
+    }
+  }
+}
